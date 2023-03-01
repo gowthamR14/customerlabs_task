@@ -1,0 +1,64 @@
+.save-segment {
+  margin-left: 20px;
+}
+.segment-style {
+  color: whitesmoke;
+}
+.offcanvas {
+  width: 28% !important;
+}
+.offcanvas-header {
+  justify-content: start !important;
+  height: 5rem;
+  color: whitesmoke;
+  background-color: cadetblue;
+}
+.segment-name {
+  font-size: 17px;
+  font-weight: 500;
+}
+.segment-placeholder {
+  width: 90% !important;
+  height: 3rem !important;
+  border-radius: 2px;
+  border: 0.5px solid #7c7c7c;
+  outline: none;
+  &::placeholder {
+    font-style: normal;
+    line-height: 21px;
+    display: flex;
+    align-items: center;
+    color: #7c7c7c;
+    padding-left: 10px;
+  }
+}
+.offcanvas-footer {
+  padding-top: 12rem;
+}
+.offcanvas-btton {
+  height: 3rem;
+  background-color: cadetblue;
+  outline: none;
+  border-radius: 5px;
+  border: none;
+  color: whitesmoke;
+}
+.offcanvas-1btton {
+  height: 3rem;
+  width: 5rem;
+  background-color: whitesmoke;
+  outline: none;
+  border-radius: 5px;
+  border: none;
+  color: palevioletred;
+}
+.addScheme-segment {
+  text-decoration: underline;
+}
+.scheme-decoration {
+  color: greenyellow;
+}
+.reactSelect_alignment {
+  width: 20rem;
+  height: 4rem !important;
+}

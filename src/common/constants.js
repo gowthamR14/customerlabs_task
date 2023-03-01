@@ -1,0 +1,31 @@
+export const schemaDropDownData = [
+  {
+    label: 'First Name',
+    value: 'first_name',
+  },
+  {
+    label: 'Last Name',
+    value: 'last _name',
+  },
+  {
+    label: 'Gender',
+    value: 'gender',
+  },
+  {
+    label: 'Age',
+    value: 'age',
+  },
+
+  {
+    label: 'Account Name',
+    value: 'account_name',
+  },
+  {
+    label: 'City',
+    value: 'city',
+  },
+  {
+    label: 'State',
+    value: 'state',
+  },
+]
